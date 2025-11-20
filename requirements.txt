@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+accelerate
+peft
+datasets
+pillow
+imageio
+requests
+azure-storage-blob
+numpy
+pandas
